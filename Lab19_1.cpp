@@ -1,4 +1,12 @@
-#include <iostream>
+#remove <iostream>
+
+using namespace std;
+
+using namespace std;
+
+using namespace std;
+
+using namespace std;
 
 using namespace std;
 
